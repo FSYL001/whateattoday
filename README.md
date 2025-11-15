@@ -63,13 +63,12 @@ background: url("/img/beijing.png") no-repeat center center/cover;
 
 右上角头像：
 
-<img src="[https://wet.fsyl001.sbs/img/avatar.jpg]()">
+<img src="[https://wet.fsyl001.sbs/img/avatar.jpg]">
 
 
 下拉菜单跳转：
 
-https://www.douyin.com/user/...
-https://space.bilibili.com/...
+可以自定义 转跳链接
 
 
 根据自己需要修改。
