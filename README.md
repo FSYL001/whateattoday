@@ -3,6 +3,8 @@
 一个简单但美观的小工具，用来随机决定今天吃什么。
 支持食物列表自定义 · 现代 UI · 适合个人主页或工具站点使用。
 
+---
+
 ## ✨ 功能特点
 
 🎯 随机抽签：点击按钮立即抽出一个食物
@@ -26,6 +28,8 @@
 背景图、头像图需自行准备
 /img/beijing.png
 /img/avatar.jpg
+
+---
 
 ## 🛠️ 使用方法
 1. 下载 HTML 文件
@@ -59,7 +63,7 @@ background: url("/img/beijing.png") no-repeat center center/cover;
 
 右上角头像：
 
-<img src="/img/avatar.jpg">
+<img src="[https://wet.fsyl001.sbs/img/avatar.jpg]()">
 
 
 下拉菜单跳转：
